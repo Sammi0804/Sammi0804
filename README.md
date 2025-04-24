@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-我是中山大學財管系大三的學生
+學校:國立中山大學
+系所:財務管理學系
+級別:115級
+年齡:20
+社團幹部:TEDxNSYSU講者組組長
